@@ -1,0 +1,22 @@
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\bin\Debug\netcoreapp2.2\Pruebapost.deps.json
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\bin\Debug\netcoreapp2.2\Pruebapost.runtimeconfig.json
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\bin\Debug\netcoreapp2.2\Pruebapost.runtimeconfig.dev.json
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\bin\Debug\netcoreapp2.2\Pruebapost.dll
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\bin\Debug\netcoreapp2.2\Pruebapost.pdb
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.AssemblyInfoInputs.cache
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.AssemblyInfo.cs
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.dll
+C:\Users\Mario\OneDrive\Documents\MTP\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.pdb
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\bin\Debug\netcoreapp2.2\Pruebapost.deps.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\bin\Debug\netcoreapp2.2\Pruebapost.runtimeconfig.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\bin\Debug\netcoreapp2.2\Pruebapost.runtimeconfig.dev.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\bin\Debug\netcoreapp2.2\Pruebapost.dll
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\bin\Debug\netcoreapp2.2\Pruebapost.pdb
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.csprojAssemblyReference.cache
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.csproj.CoreCompileInputs.cache
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.AssemblyInfoInputs.cache
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.AssemblyInfo.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.dll
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\Pruebapost\obj\Debug\netcoreapp2.2\Pruebapost.pdb

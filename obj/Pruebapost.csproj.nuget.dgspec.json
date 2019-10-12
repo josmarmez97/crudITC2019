@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\Pruebapost\\Pruebapost.csproj": {}
+  },
+  "projects": {
+    "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\Pruebapost\\Pruebapost.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\Pruebapost\\Pruebapost.csproj",
+        "projectName": "Pruebapost",
+        "projectPath": "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\Pruebapost\\Pruebapost.csproj",
+        "packagesPath": "C:\\Users\\Josmar Mezeta\\.nuget\\packages\\",
+        "outputPath": "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\Pruebapost\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josmar Mezeta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[1.0.19239.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
